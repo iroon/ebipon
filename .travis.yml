@@ -3,3 +3,6 @@ language: ruby
 # script: bundle exec rspec spec
 env:
 - DB=postgres
+
+notifications:
+  slack: ebipon:sBw47oTP5WuIjf9t0SJcfzi2
