@@ -48,7 +48,7 @@ group :development, :test do
 end
 
 group :test do
-  # gem 'capybara-webkit'
+  gem 'capybara-webkit'
   gem 'launchy'
   gem 'simplecov', require: false
   gem 'vcr'
